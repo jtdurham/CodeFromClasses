@@ -1,5 +1,3 @@
-setwd("C:\\Users\\Jordan\\Documents\\GSE 544\\Homework 2")
-
 ## Question 2
 
 # a
