@@ -1,5 +1,3 @@
-setwd("C:\\Users\\Jordan\\Documents\\GSE 544")
-
 library(SuppDists)
 library(QRM)
 
